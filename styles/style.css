@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: chocolate;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    text-align: center;
+    color: darkorange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.links {
+    text-align: center;
+    margin-top: 25px;
+}
+a {
+    padding: 20px 40px;
+    background-color: blanchedalmond;
+    border: 1px solid chocolate;
+    border-radius: 25px;
+    color: brown;
+    text-decoration: none;
+}
+.images {
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 250px;
+}
